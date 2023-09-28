@@ -29,7 +29,7 @@ To install an operating system using virtual box.
 10.Once everything is in place, it’s time to boot that ISO and install Linux as a virtual operating system.
 ![output](./e10.png)
 ![output](./e11.png)
-![output](./e12.png)
+
 
 # RESULT:
 Hence the OS is successfully installed and set up using virtual box.
